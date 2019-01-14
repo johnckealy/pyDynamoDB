@@ -1,0 +1,8 @@
+README.md
+pyDynamoDB/__init__.py
+pyDynamoDB/pyDynamoDB.py
+pyDynamoDB.egg-info/PKG-INFO
+pyDynamoDB.egg-info/SOURCES.txt
+pyDynamoDB.egg-info/dependency_links.txt
+pyDynamoDB.egg-info/not-zip-safe
+pyDynamoDB.egg-info/top_level.txt

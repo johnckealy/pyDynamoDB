@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pyDynamoDB
+Version: 0.1
+Summary: A wrapper to ease the use of DynamoDB with boto3
+Home-page: https://github.com/johnckealy/pyDynamoDB.git
+Author: John C. Kealy
+Author-email: johnckealy@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
