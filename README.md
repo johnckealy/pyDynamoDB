@@ -1,9 +1,13 @@
 # pyDynamoDB
 
+*A wrapper for Amazon Web Service's DynamoDB calls using boto3. *
 
-A wrapper for DynamoDB calls using boto3. 
+This is a simple python module; it's a collection of methods that abstract the most common queries to the AWS DynamoDB NoSQL database. 
 
-This won't be well documented (yet), as it's really for personal use and an aid to learning DynamoDB with python's boto3 on Amazon Web Services. The files are package as a pip package though, so you can start using it by cloning the repository and then installing locally with 
+
+# Installation 
+
+After cloning the repository, simply install it with
 
 `pip install .`
 
